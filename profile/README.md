@@ -12,7 +12,7 @@ Undead robot vacuum cleaners *you* control and own!
 * Gen3 - D3 ✅ D4 ✅ D5 ✅ D6 ✅ D7 ✅
 * Gen4 - D800 ✅ D8 ✅ D9 ✅ D10 ✅
 
-Have a supported robot? Go set up a [server](/vacuula/vacuula), then use the [installer](/vacuula/installer) to *bite* your robot and bask in the knowledge that now ***you*** control the lifetime of what you bought!
+Have a supported robot? Go set up a [server](https://github.com/vacuula/vacuula), then use the [installer](https://github.com/vacuula/installer) to *bite* your robot and bask in the knowledge that now ***you*** control the lifetime of what you bought!
 
 Don't have a neato robot? Let's just say they (for reasons that might or might not be called *arbitrary deprecation*) are really cheap on the second hand market right now.
 
